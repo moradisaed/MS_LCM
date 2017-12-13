@@ -1,14 +1,10 @@
 function  out  = MLCM_fun( img )
-% this function computes gaussian scale space and its second derivatives
-% the output image is acheieved using max selection through third dimension
+
 
 %% inputs:
 % img: the input image
 
-% sigma:  standard deviation of gaussian kernel
 
-
-% n: number of scales
 
 %% output
 % out: output filtered image
