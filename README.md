@@ -2,7 +2,7 @@
 
 MATLAB (Octave) implementation of the following paper:
 
-__"ulti-Scale local contrast method for small infrared target detection"__
+__"A local contrast method for small infrared target detection"__
 
 
 If you are using this code in your researches, kindly cite the following paper:
